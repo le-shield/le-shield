@@ -1,4 +1,4 @@
-const appDataUrl = new URL('./data/videos.json?v=21', location.href);
+const appDataUrl = new URL('./data/videos.json?v=22', location.href);
 const view = document.querySelector('#view');
 const crumbs = document.querySelector('#breadcrumbs');
 const search = document.querySelector('#search-input');

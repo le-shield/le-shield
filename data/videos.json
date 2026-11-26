@@ -348,6 +348,14 @@
     {
       "categoryId": "office-365",
       "subcategoryId": "excel",
+      "title": "Fonction SI.CONDITIONS",
+      "description": "",
+      "youtube": "https://www.youtube.com/watch?v=tmkWC4tjhV8",
+      "isNew": false
+    },
+    {
+      "categoryId": "office-365",
+      "subcategoryId": "excel",
       "title": "Fonction SOMME.SI",
       "description": "",
       "youtube": "https://www.youtube.com/watch?v=zXQ4Uo4qFhQ",
